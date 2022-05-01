@@ -1,0 +1,14 @@
+SMAP
+org_jsp.java
+JSP
+*S JSP
+*F
++ 0 org.jsp
+page/org.jsp
++ 1 footer.jsp
+page/../pageparts/footer.jsp
+*L
+1,47:50
+1#1,5:97
+47#0,5:102
+*E

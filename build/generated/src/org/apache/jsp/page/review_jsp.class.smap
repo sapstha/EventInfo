@@ -1,0 +1,18 @@
+SMAP
+review_jsp.java
+JSP
+*S JSP
+*F
++ 0 review.jsp
+page/review.jsp
++ 1 footer.jsp
+page/../pageparts/footer.jsp
+*L
+1,9:50
+10,28:60
+37,36:88
+74,12:126
+85,13:138
+1#1,5:151
+97#0,3:156
+*E
